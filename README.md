@@ -5,7 +5,7 @@
 It is a Working Music Player Website made by using HTML, CSS and JavaScript.
 
 ## 📸 Screenshots
-![image](https://github.com/Anujmishra2005/Music-Player/blob/main/preview/preview%202.png)
+![image](https://github.com/Anujmishra2005/Music-Player/blob/main/preview/preview%201.png)
 ![image](https://github.com/Anujmishra2005/Music-Player/blob/main/preview/preview%202.png)
 
 

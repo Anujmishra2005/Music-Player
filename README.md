@@ -2,7 +2,7 @@
 
 ### [Music Player Live Link](https://anujmishra2005.github.io/Music-Player/)
 
-It is a Working Space Travel Website made by using HTML, CSS and JavaScript.
+It is a Working Music Player Website made by using HTML, CSS and JavaScript.
 
 ## 📸 Screenshots
 ![image](https://github.com/Anujmishra2005/Music-Player/blob/main/preview/preview%202.png)
